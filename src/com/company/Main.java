@@ -11,5 +11,9 @@ public class Main {
        audi.headLights="blue";
        audi.regNo="123654";
 
+
+        System.out.println("welcome to my car");
+        System.out.println("the radio is set to 80mhz");
+        System.out.println("Turn on the Air conditioner");
     }
 }
